@@ -1,13 +1,13 @@
 # Life Timer App Privacy Policy
 
-**Last Updated**: May 31, 2024  
-**Effective Date**: May 31, 2024
+**Last Updated**: June 1, 2025  
+**Effective Date**: June 1, 2025
 
 ---
 
 ## 1. Privacy Policy Overview
 
-Life Timer Team ("Company", "we", "us") takes the privacy protection of users very seriously in relation to services provided through the Life Timer mobile application ("App", "Service").
+앱돌이공장 ("Company", "we", "us") takes the privacy protection of users very seriously in relation to services provided through the Life Timer mobile application ("App", "Service").
 
 This Privacy Policy explains what information we collect, how we use information, who we share information with, and your choices.
 
@@ -109,7 +109,7 @@ This Privacy Policy explains what information we collect, how we use information
 - **Right to Processing Suspension**: Request suspension of personal information processing
 
 ### 7.2 How to Exercise Rights
-- **Email**: support@lifetimer.app
+- **Email**: wjb127@naver.com
 - **Processing Period**: Within 10 days of receiving the request
 
 ---
@@ -135,9 +135,9 @@ For important changes such as the purpose of personal information collection and
 If you have any questions about personal information processing, please contact us at:
 
 ### Privacy Officer
-- **Name**: Life Timer Team
-- **Email**: support@lifetimer.app
-- **Contact**: Use the in-app inquiry feature
+- **Name**: 앱돌이공장
+- **Email**: wjb127@naver.com
+- **Contact**: wjb127@naver.com
 
 ### Personal Information Dispute Mediation Committee (Korea)
 - **Website**: https://www.privacy.go.kr
@@ -159,8 +159,8 @@ Disputes related to this Privacy Policy shall be subject to the jurisdiction of 
 
 ---
 
-**This Privacy Policy is effective from May 31, 2024.**
+**This Privacy Policy is effective from June 1, 2025.**
 
 ---
 
-*Life Timer Team is committed to protecting your privacy. If you have any questions, please feel free to contact us at any time.* 
+*앱돌이공장 is committed to protecting your privacy. If you have any questions, please feel free to contact us at any time.* 

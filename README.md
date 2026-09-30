@@ -1,166 +1,37 @@
-# Life Timer App Privacy Policy
+# Life Timer 개인정보처리방침 / Privacy Policy
 
-**Last Updated**: June 1, 2025  
-**Effective Date**: June 1, 2025
+최종 업데이트 및 시행일: 2026년 9월 30일
+운영자: 앱돌이공장 (Seung Been Wee)
+문의: wjb127@naver.com
 
----
+## 앱에 저장하는 정보
+Life Timer는 생일을 입력하여 100세를 기준으로 남은 시간을 표시하는 일반 이용자용 앱입니다. 실제 기대수명이나 건강 상태를 예측하지 않습니다. 계정을 만들지 않으며, 생일과 알림 설정은 기기의 앱 설정 저장소에 저장합니다. 앱 운영자의 서버로 생일을 전송하지 않습니다. 저장소는 운영체제의 앱 보호 기능을 사용하며 별도의 앱 수준 암호화를 제공한다고 주장하지 않습니다. 기기 백업 및 복원에는 운영체제와 사용자의 백업 설정이 적용될 수 있습니다.
 
-## 1. Privacy Policy Overview
+공유 기능은 사용자가 선택할 때 운영체제의 공유 화면을 엽니다. 사용자가 선택한 서비스나 수신자에게 공유하는 내용에는 해당 서비스의 정책이 적용됩니다. 일일 알림은 사용자가 활성화하고 기기의 알림 권한을 허용한 경우 제공됩니다.
 
-앱돌이공장 ("Company", "we", "us") takes the privacy protection of users very seriously in relation to services provided through the Life Timer mobile application ("App", "Service").
+## 광고 및 동의 서비스
+앱에는 Google AdMob(Google Mobile Ads SDK)과 Google User Messaging Platform(UMP)이 포함되어 있습니다. 광고와 동의 기능은 IP 주소에서 추정되는 대략적인 위치, 기기 및 광고 식별자, 앱 이용 및 광고 상호작용, 광고 데이터, 오류·성능·진단 정보를 수집하거나 Google 및 광고 제공업체와 공유할 수 있습니다. 이 정보는 광고 제공 및 측정, 분석, 부정 사용 방지, 동의 관리 및 앱 기능에 사용됩니다. 생일을 광고 SDK에 전달하지 않습니다. Google SDK가 수집하는 데이터는 전송 중 암호화됩니다.
 
-This Privacy Policy explains what information we collect, how we use information, who we share information with, and your choices.
+광고 데이터의 처리 범위는 플랫폼, 지역, 동의 상태, SDK 설정 및 광고 제공업체에 따라 달라질 수 있습니다. 개인정보 보호 및 광고 파트너에 관한 정보는 앱에서 표시하는 동의 화면과 아래 Google 안내를 확인해 주세요.
 
----
+- [Google 개인정보처리방침](https://policies.google.com/privacy)
+- [Google 광고의 데이터 사용](https://policies.google.com/technologies/ads)
+- [Android Google Mobile Ads SDK 데이터 공개 안내](https://developers.google.com/admob/android/privacy/play-data-disclosure)
+- [iOS Google Mobile Ads SDK 데이터 공개 안내](https://developers.google.com/admob/ios/privacy/data-disclosure)
 
-## 2. Information We Collect
+현재 앱에는 Firebase Analytics가 포함되어 있지 않습니다.
 
-### 2.1 Information You Provide Directly
-**We do not directly collect personal information.**
+## 선택 및 삭제
+지역별 동의가 필요한 경우 UMP 동의 화면을 표시합니다. UMP에서 개인정보 보호 옵션을 제공하도록 요구하는 경우 앱 설정에서 해당 옵션을 다시 열 수 있습니다. iOS에서는 해당 요청이 제공될 때 앱 추적 허용 여부를 선택할 수 있으며, 추적을 허용하지 않아도 기본 계산 기능을 이용할 수 있습니다. 기기의 개인정보 보호 설정에서 앱 추적, 광고 식별자 및 알림 권한을 관리할 수 있습니다.
 
-- ✅ **Birthday Information**: Stored only on your device and not transmitted externally
-- ✅ **Notification Settings**: Stored only on your device and not transmitted externally
-- ✅ **App Usage Records**: Stored only on your device and not transmitted externally
+생일은 앱에서 변경할 수 있습니다. 기기의 앱 데이터 삭제 기능 또는 앱 삭제로 로컬 데이터를 제거할 수 있으며, 백업과 복원 데이터는 운영체제 및 백업 서비스 설정에 따라 관리됩니다. 운영자는 생일을 서버에 보관하지 않으므로 해당 서버 데이터의 별도 보관 기간은 없습니다. Google 및 광고 제공업체가 처리하는 정보의 보관, 삭제 및 권리 행사에는 해당 업체의 정책이 적용됩니다. 앱 개인정보 관련 문의는 위 이메일로 보내 주세요.
 
-### 2.2 Information Collected Automatically
-**Only minimal information is collected for advertising services.**
+## 대상 이용자와 변경
+앱은 일반 이용자를 위한 시간 관리 및 동기부여 도구이며 어린이를 특별히 대상으로 설계하지 않았습니다. 개인정보처리방침을 변경하면 이 페이지의 내용과 업데이트 날짜를 갱신합니다. 필요한 동의는 앱의 관련 동의 절차에서 처리합니다.
 
-- **Advertising Identifier (Advertising ID)**: For displaying ads through Google AdMob
-- **Device Information**: For app compatibility and performance optimization
-- **App Usage Statistics**: For app improvement and bug fixes
+## English summary
+Life Timer stores your birthday and notification preferences locally. It does not require an account or send your birthday to the developer's server. The countdown uses a fixed 100-year reference and is not a medical or life expectancy prediction. Device backups follow your operating system and backup settings.
 
----
+Google AdMob and UMP may collect and share approximate location inferred from IP address, device and advertising identifiers, app and advertising interactions, advertising data, and crash, performance and diagnostic information for advertising, measurement, analytics, fraud prevention, consent and app functionality. Your birthday is not passed to the advertising SDK. Google SDK data is encrypted in transit. Firebase Analytics is not included.
 
-## 3. How We Use Information
-
-### 3.1 Service Provision
-- Providing remaining life calculation features
-- Displaying motivational quotes
-- Providing daily notification features
-- App performance optimization
-
-### 3.2 Advertising Services
-- Displaying personalized ads through Google AdMob
-- Measuring and analyzing ad performance
-
-### 3.3 Service Improvement
-- Analyzing app usage patterns
-- Fixing errors and bugs
-- Developing new features
-
----
-
-## 4. Information Sharing and Disclosure
-
-### 4.1 Third-Party Disclosure
-**We do not provide personal information to third parties except in the following cases:**
-
-- When you have given prior consent
-- When required by law
-- When requested by investigative agencies according to procedures established by law for investigation purposes
-
-### 4.2 Third-Party Services
-**We use the following third-party services:**
-
-#### Google AdMob
-- **Purpose**: Ad display and monetization
-- **Information Collected**: Advertising identifier, device information
-- **Privacy Policy**: https://policies.google.com/privacy
-
-#### Google Analytics for Firebase (Optional)
-- **Purpose**: App usage statistics and performance analysis
-- **Information Collected**: App usage patterns, device information
-- **Privacy Policy**: https://policies.google.com/privacy
-
----
-
-## 5. Information Retention and Deletion
-
-### 5.1 Retention Period
-- **User Input Data**: Immediately deleted when app is uninstalled
-- **Advertising-Related Data**: Managed according to Google AdMob policies
-- **Analytics Data**: Retained for up to 26 months after collection
-
-### 5.2 Deletion Methods
-- **App Deletion**: All local data is deleted when you uninstall the app from your device
-- **Advertising ID Reset**: You can reset your advertising ID in device settings
-
----
-
-## 6. Information Protection Measures
-
-### 6.1 Technical Protection Measures
-- Encrypted data storage
-- Use of secure communication protocols (HTTPS)
-- Regular security updates
-
-### 6.2 Administrative Protection Measures
-- Minimizing personal information access permissions
-- Regular security training
-- Regular review of personal information processing status
-
----
-
-## 7. Your Rights
-
-### 7.1 Personal Information Self-Determination Rights
-- **Right to Access**: Request confirmation of personal information being processed
-- **Right to Correction/Deletion**: Request correction or deletion of incorrect information
-- **Right to Processing Suspension**: Request suspension of personal information processing
-
-### 7.2 How to Exercise Rights
-- **Email**: wjb127@naver.com
-- **Processing Period**: Within 10 days of receiving the request
-
----
-
-## 8. Children's Privacy Protection
-
-We do not knowingly collect personal information from children under 14 years of age. If we discover that personal information from a child under 14 has been collected, we will immediately take measures to delete it.
-
----
-
-## 9. Changes to Privacy Policy
-
-### 9.1 Change Notification
-When the Privacy Policy is changed, we will notify you of the changes in advance through in-app notifications or email.
-
-### 9.2 Important Changes
-For important changes such as the purpose of personal information collection and use, or third-party provision, we will obtain separate consent.
-
----
-
-## 10. Contact Information
-
-If you have any questions about personal information processing, please contact us at:
-
-### Privacy Officer
-- **Name**: 앱돌이공장
-- **Email**: wjb127@naver.com
-- **Contact**: wjb127@naver.com
-
-### Personal Information Dispute Mediation Committee (Korea)
-- **Website**: https://www.privacy.go.kr
-- **Phone**: 1833-6972
-
-### Personal Information Protection Commission (Korea)
-- **Website**: https://www.pipc.go.kr
-- **Phone**: 02-2100-2500
-
----
-
-## 11. Miscellaneous
-
-### 11.1 Governing Law
-This Privacy Policy is interpreted and applied in accordance with the laws of the Republic of Korea.
-
-### 11.2 Jurisdiction
-Disputes related to this Privacy Policy shall be subject to the jurisdiction of the Seoul Central District Court.
-
----
-
-**This Privacy Policy is effective from June 1, 2025.**
-
----
-
-*앱돌이공장 is committed to protecting your privacy. If you have any questions, please feel free to contact us at any time.* 
+Where applicable, use the consent screen, the app's privacy options and your device privacy settings to manage choices. Denying iOS tracking does not prevent use of the calculator. Local data can be removed through operating-system app-data deletion or app removal, subject to backup settings. Google and advertising partners manage their own retention and privacy requests under their policies. Contact wjb127@naver.com for questions about the app.
